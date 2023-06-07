@@ -6,7 +6,7 @@
 
 ------
 
-### About
+<h3>Other</h3>
 
 #### :notebook_with_decorative_cover:[归纳笔记](https://github.com/1004032560/SpringNote)
 
