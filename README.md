@@ -31,7 +31,10 @@
 <li><a target="_blank" href="https://1004032560.github.io/posts/docker%E5%B0%8F%E6%9C%AC%E6%9C%AC/">Docker笔记</a></li>
 </ul>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/looper0581" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.facebook.com/1000" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a><a target="_blank" href="https://space.bilibili.com/276593419" style="display: inline-block;"><img src="https://img.shields.io/badge/bilibili-logo?style=for-the-badge&logo=bilibili&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
+<p>
+  <a target="_blank" href="https://twitter.com/looper0581" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+  <a target="_blank" href="https://www.facebook.com/1000" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+  <a target="_blank" href="https://space.bilibili.com/276593419" style="display: inline-block;"><img src="https://img.shields.io/badge/bilibili-logo?style=for-the-badge&logo=bilibili&logoColor=white&color=%23FB7299" alt="facebook" /></a>
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=1004032560&show_icons=true&locale=en" alt="1004032560" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=1004032560&show_icons=true&locale=en&layout=compact" alt="1004032560" /></p>
